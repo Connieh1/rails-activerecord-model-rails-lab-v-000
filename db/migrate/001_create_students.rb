@@ -5,5 +5,6 @@ def change
     t.string  :last_name
 
     t.timestamps null: false
+    end
   end
 end
